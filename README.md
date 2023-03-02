@@ -39,7 +39,7 @@ Si tienes alguna duda sobre el proceso para adquirir comunicate por WhatsApp
 |---------------------------------------------------------------|---|
 | 🚻 Autenticacion para Multi dispositivos                      | ✔ |
 | 📁 Envia **Texto con Imagenes**                               | ✔ |
-| 📁 Envia **Solo Texto**                               | ❌ |
+| 📁 Envia **Solo Texto**                               | ✔ |
 | Envia mensajes en Segundo Plano                                             | ✔ |
 | Puedes usar tu ordenador mientras se envian                                             | ✔ |
 | Informe de Mensajes (Enviado / No Enviado)                                             | ✔ |
@@ -64,8 +64,8 @@ Este proyecto lleva varias carpetas cada una con funciones importantes
 | `token`             | Guarda la tu sesion con WhatsApp                           |
 | `Formato.xlsx`          | Funciona como Base de datos, Se aloja Nombre y Telefono, en caso de que seas de Mexico y los numeros no lleven el **+52** el mismo excel se lo concatena                                                                                                            |
 | `mns.txt`         | El mensaje que sera enviado a tus clientes |
-| `num.txt`            | El archivo que contiene tus contactos                                                                          |
-| `array___num.txt`       | Archivo que pasa tus numero para que el programa tome los numeros a su formato                                                                                                             |
+| `time.txt`            | Controla el tiempo para enviar tus mensajes                                                                          |
+
 
 ## Contributing
 Las solicitudes de extracción son bienvenidas. Para cambios importantes, abra primero un número para discutir lo que le gustaría cambiar.
