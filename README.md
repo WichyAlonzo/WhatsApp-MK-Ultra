@@ -45,7 +45,7 @@ Si tienes alguna duda sobre el proceso para adquirir comunicate por WhatsApp
 | Cancela Envio cuando quieras                                            | ✔ |
 | Usa Excel como Base de Datos                                            | ✔ |
 | Mensajes con Emojis  😂 🤣 😇                                            | ✔ |
-| 18 seg. x Mensaje                                        | ✔ |
+| Controla los seg. x Mensaje                                        | ✔ |
 | Enviar Archivos .pdf                                           | ❌ |
 | Enviar Archivos .mp3                                           | ❌ |
 
