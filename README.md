@@ -9,7 +9,7 @@
 
 ```bash
 Costo del programa es de 3,499 × 1
-Costo del programa es de 5,499 × 2
+Costo del programa es de 5,999 × 2
 Costo del programa es de 2,899 × 4+
 
 Es pago unico en un plazo de 4 Meses, despues de ese tiempo es necesario renovar licencia
