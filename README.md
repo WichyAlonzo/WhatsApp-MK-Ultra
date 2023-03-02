@@ -3,6 +3,22 @@
 
 > WhatsApp Sender MK01 es una solucion para todas las personas que manejan gran cantidad de contactos o necesitan hacer campaña para sus negocios
 
+
+<h1 align="center">🔥🔥🔥 INFORMACION PREVIA 🔥🔥🔥</h1>
+
+
+```bash
+Costo del programa es de 3,499 × 1
+Costo del programa es de 5,499 × 2
+Costo del programa es de 2,899 × 4+
+
+Es pago unico en un plazo de 4 Meses, despues de ese tiempo es necesario renovar licencia
+si no renuevas licencia el programa dejara de funcionar.
+Recuerda que la programacion no es Como WIX de arrastrar Elementos ;)
+Todo lleva su logica 🥵😎
+
+```
+
 ## ¡Comienza ahora rápido y fácil!
 
 <p align="center">
