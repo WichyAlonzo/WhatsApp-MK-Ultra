@@ -63,7 +63,7 @@ Si tienes alguna duda sobre el proceso para adquirir comunicate por WhatsApp
 | Mensajes con Emojis  😂 🤣 😇                                            | ✔ |
 | Controla los seg. x Mensaje                                        | ✔ |
 | Enviar Archivos .pdf                                           | ❌ |
-| Enviar Archivos .mp3                                           | ❌ |
+| Enviar Archivos .mp3                                           | ✔ |
 
 
 
