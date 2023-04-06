@@ -23,7 +23,7 @@ Todo lleva su logica 🥵😎
 
 <p align="center">
   <a href="https://wa.me/524451540656?text=Quiero%20comprar%20el%20programa%20WhatsApp%20MK%20😎">Comprar Programa</a> •
-  <a href="https://wa.me/524451540656?text=Quiero%20una%20funcion%20para%20WhatsApp%20MK%20😎">Peticion de Funcion</a>
+  <a href="https://wa.me/524451540656?text=Quiero%20una%20funcion%20para%20WhatsApp%20MK%20😎">Peticion de Funcion</a> •
   <a href="https://github.com/WichyAlonzo/WhatsApp-Sender/blob/main/Guia%20WhatsApp%20MK-Ultra.pdf">Guia WhatsApp</a>
 </p>
 
