@@ -99,19 +99,24 @@ Este proyecto lleva varias carpetas cada una con funciones importantes
 
 
 Imagenes del Programa:
-> Inicio de Progra:
+
+Inicio de Progra:
 ![image](https://github.com/WichyAlonzo/WhatsApp-Sender/assets/67400844/bb61727a-0ed2-4fba-ab92-5896f4ebbdfe)
 
-> Mensaje Enviado
+
+Mensaje Enviado
 ![image](https://github.com/WichyAlonzo/WhatsApp-Sender/assets/67400844/902acfbb-b944-4425-a9fb-4ab126b0c747)
 
-> Mensaje no Enviado
+
+Mensaje no Enviado
 ![image](https://github.com/WichyAlonzo/WhatsApp-Sender/assets/67400844/762948b2-401a-47c3-8719-9d1df37d0e8a)
 
-> Notificaciones
+
+Notificaciones
 ![image](https://github.com/WichyAlonzo/WhatsApp-Sender/assets/67400844/4bf6eca0-36fd-4b10-a2d8-0df160521e23)
 
-> Finaliza tarea
+
+Finaliza tarea
 ![image](https://github.com/WichyAlonzo/WhatsApp-Sender/assets/67400844/5d2bd357-9224-474d-802a-17444147f011)
 
 
