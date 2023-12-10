@@ -1,5 +1,5 @@
 
-# 🦖 WhatsApp MK-Ultra v.XXX.XXX
+# 🦖 WhatsApp MK-Ultra 2024.XXX.XXX
 
 WhatsApp MK-Ultra v.XXX.XXX es una solucion para todas las personas que manejan gran cantidad de contactos o necesitan hacer campaña para sus negocios
 > [!NOTE] 
