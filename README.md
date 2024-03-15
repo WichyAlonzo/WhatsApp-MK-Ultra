@@ -55,7 +55,7 @@ Si tienes alguna duda sobre el proceso para adquirir comunicate por WhatsApp
 | Envia **Texto / Audio** (Cuenta personal / Business)                               | ✅ |
 | Envia **Texto / Video** (Cuenta personal / Business)                              | ✅ |
 | Envia **Mensajes a Etiquetas** (Cuenta Business)                              | ✅ |
-| Envia **Texto / PDF**                               | ⚠️ |
+| Envia **Texto / PDF**                               | ✅ |
 | Envia **Encuestas**                               | ⚠️ |
 | Envia mensajes en Segundo Plano                                             | ✅ |
 | Informe de Mensajes (Enviado / No Enviado)                                          | ✅ |
