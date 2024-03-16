@@ -67,5 +67,23 @@ Si tienes alguna duda sobre el proceso para adquirir comunicate por WhatsApp
 | Selecciona la imagen | ✅ |
 
 
+# Mensajes a Clientes
+<div style="display: flex;">
+    <img src="https://github.com/WichyAlonzo/WhatsApp-MK-Ultra/assets/67400844/eead38ea-fee4-47fb-8102-5bcca914cef2" alt="Mensaje normal" style="/* width: 400px; */max-width: 100%;/* max-width: 150px; */height: 400px; /* Establece una altura fija para mantener la relación de aspecto */object-fit: cover; /* Ajusta la imagen dentro de su contenedor sin distorsionarla */margin-right: 10px;">
+  <img src="https://github.com/WichyAlonzo/WhatsApp-MK-Ultra/assets/67400844/9d6b4922-29a3-4c7e-b016-ff992faae3a4" alt="Mensaje normal y Audio" style="/* width: 400px; */max-width: 100%;/* max-width: 150px; */height: 400px; /* Establece una altura fija para mantener la relación de aspecto */object-fit: cover; /* Ajusta la imagen dentro de su contenedor sin distorsionarla */margin-right: 10px;">
+  <img src="https://github.com/WichyAlonzo/WhatsApp-MK-Ultra/assets/67400844/e11fdd05-3acc-449e-9f78-f9e6f7defe05)https://github.com/WichyAlonzo/WhatsApp-MK-Ultra/assets/67400844/e11fdd05-3acc-449e-9f78-f9e6f7defe05" alt="Mensaje normal con Pdf" style="/* width: 400px; */max-width: 100%;/* max-width: 150px; */height: 400px; /* Establece una altura fija para mantener la relación de aspecto */object-fit: cover; /* Ajusta la imagen dentro de su contenedor sin distorsionarla */margin-right: 10px;">
+    <img src="https://github.com/WichyAlonzo/WhatsApp-MK-Ultra/assets/67400844/f3e0da20-db79-40bf-9d78-4c7fd7ee9f72" alt="Mensaje normal con Imagen" style="/* width: 400px; */max-width: 100%;/* max-width: 150px; */height: 400px; /* Establece una altura fija para mantener la relación de aspecto */object-fit: cover; /* Ajusta la imagen dentro de su contenedor sin distorsionarla */margin-right: 10px;">
+  <img src="https://github.com/WichyAlonzo/WhatsApp-MK-Ultra/assets/67400844/cb552b75-94a7-44e4-905f-ac988e02c9d4" alt="Mensaje normal con Video" style="/* width: 400px; */max-width: 100%;/* max-width: 150px; */height: 400px; /* Establece una altura fija para mantener la relación de aspecto */object-fit: cover; /* Ajusta la imagen dentro de su contenedor sin distorsionarla */margin-right: 10px;">
 
+</div>
+
+# Mensajes a Clientes con Etiquetas (Business)
+<div style="display: flex;">
+    <img src="https://github.com/WichyAlonzo/WhatsApp-MK-Ultra/assets/67400844/8eb21e1c-206d-4eaa-ba7f-3ce20ad5c943" alt="Mensaje normal" style="/* width: 400px; */max-width: 100%;/* max-width: 150px; */height: 400px; /* Establece una altura fija para mantener la relación de aspecto */object-fit: cover; /* Ajusta la imagen dentro de su contenedor sin distorsionarla */margin-right: 10px;">
+  <img src="https://github.com/WichyAlonzo/WhatsApp-MK-Ultra/assets/67400844/f6e888ed-9646-45f7-af78-ec79d14bd984" alt="Mensaje normal y Audio" style="/* width: 400px; */max-width: 100%;/* max-width: 150px; */height: 400px; /* Establece una altura fija para mantener la relación de aspecto */object-fit: cover; /* Ajusta la imagen dentro de su contenedor sin distorsionarla */margin-right: 10px;">
+  <img src="https://github.com/WichyAlonzo/WhatsApp-MK-Ultra/assets/67400844/ad24713c-cb5f-4df3-b256-b973a602af6f" alt="Mensaje normal con Pdf" style="/* width: 400px; */max-width: 100%;/* max-width: 150px; */height: 400px; /* Establece una altura fija para mantener la relación de aspecto */object-fit: cover; /* Ajusta la imagen dentro de su contenedor sin distorsionarla */margin-right: 10px;">
+    <img src="https://github.com/WichyAlonzo/WhatsApp-MK-Ultra/assets/67400844/3f0c7c64-70a6-4499-82e3-9ad948b3453a" alt="Mensaje normal con Imagen" style="/* width: 400px; */max-width: 100%;/* max-width: 150px; */height: 400px; /* Establece una altura fija para mantener la relación de aspecto */object-fit: cover; /* Ajusta la imagen dentro de su contenedor sin distorsionarla */margin-right: 10px;">
+  <img src="https://github.com/WichyAlonzo/WhatsApp-MK-Ultra/assets/67400844/5eb07528-253f-4391-bc70-308b2ca15ce7" alt="Mensaje normal con Video" style="/* width: 400px; */max-width: 100%;/* max-width: 150px; */height: 400px; /* Establece una altura fija para mantener la relación de aspecto */object-fit: cover; /* Ajusta la imagen dentro de su contenedor sin distorsionarla */margin-right: 10px;">
+
+</div>
 
